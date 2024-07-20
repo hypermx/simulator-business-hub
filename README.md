@@ -14,40 +14,7 @@ No demo available at this moment!
 - **Analytics and Reporting**: Track job completions and company performance.
 - **Community Features**: Participate in forums and chat with other players.
 
-## Getting Started for contributions
 
-### Prerequisites
-
-- Node.js
-- npm (Node Package Manager)
-- MongoDB or MySQL (To be decided)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/hypermx/simulator-business-hub.git
-   cd simulator-business-hub
-   ```
-   
-2. Install the dependencies:
-    ```bash
-    npm install
-    ```
-
-3. Set up the database and environment variables:
-    ```bash
-    cp .env.example .env
-    ```
-
-4. Update .env with your database credentials and other configurations
-
-5. Run the development server:
-    ```bash
-    npm start
-    ```
-
-6. Open your browser and navigate to http://localhost:3000.
 
 ## Contributing
 We welcome contributions from the community! To get started, please read our CONTRIBUTING.md file for guidelines on how to contribute.
