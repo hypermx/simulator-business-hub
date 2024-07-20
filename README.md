@@ -63,11 +63,11 @@ A discord would be created if this project gained enough attention.
 
 
 ## Our initial development phases:
-User Management and Dashboard: Implement user registration, login, and profile management. Develop the basic company management dashboard.
-Job Marketplace: Create automatic job posting and accepting functionality. Integrate with selected simulator games.
-Analytics and Reporting: Implement basic analytics and reporting tools.
-Community Features: Develop a forum or chat system for user interaction.
-Business: Develop features that would allow the player to mix-max their company.
+- User Management and Dashboard: Implement user registration, login, and profile management. Develop the basic company management dashboard.
+- Job Marketplace: Create automatic job posting and accepting functionality. Integrate with selected simulator games.
+- Analytics and Reporting: Implement basic analytics and reporting tools.
+- Community Features: Develop a forum or chat system for user interaction.
+- Business: Develop features that would allow the player to mix-max their company.
 
 
 ## Contact
