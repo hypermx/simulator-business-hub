@@ -4,7 +4,7 @@ No demo available at this moment!
 
 ## Introduction
 
-**Simulator Business Hub** is a web-based platform that integrates multiple simulator games into a unified system, allowing players to manage their own virtual companies. By combining popular simulator games such as Euro Truck Simulator and Farming Simulator, this platform creates an interconnected online environment where players can interact, post jobs, and complete tasks across different games.
+**Simulator Business Hub** is a web-based platform that integrates multiple simulator games into a unified system, allowing players to manage their own virtual companies. By combining popular simulator games such as Euro Truck Simulator and Farming Simulator, this platform creates an interconnected online environment where players can interact and complete tasks across different games.
 
 ## Features
 
