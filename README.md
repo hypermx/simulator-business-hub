@@ -20,7 +20,7 @@ No demo available at this moment!
 
 - Node.js
 - npm (Node Package Manager)
-- PostgreSQL or MongoDB (for database)
+- MongoDB or MySQL (To be decided)
 
 ### Installation
 
@@ -48,3 +48,27 @@ No demo available at this moment!
     ```
 
 6. Open your browser and navigate to http://localhost:3000.
+
+## Contributing
+We welcome contributions from the community! To get started, please read our CONTRIBUTING.md file for guidelines on how to contribute.
+
+## Good First Issues
+If you're new to open source, check out our good first issues to get started.
+
+## Code of Conduct
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms.
+
+## Community and Support
+A discord would be created if this project gained enough attention.
+
+
+## Our initial development phases:
+User Management and Dashboard: Implement user registration, login, and profile management. Develop the basic company management dashboard.
+Job Marketplace: Create automatic job posting and accepting functionality. Integrate with selected simulator games.
+Analytics and Reporting: Implement basic analytics and reporting tools.
+Community Features: Develop a forum or chat system for user interaction.
+Business: Develop features that would allow the player to mix-max their company.
+
+
+## Contact
+For any questions or suggestions, feel free to open an issue
