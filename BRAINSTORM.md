@@ -28,14 +28,6 @@ Here are some key features to consider:
 ## Platform
 Starting with a web-based platform is easier for updates and access from any device. Eventually, we could expand to mobile apps to enhance accessibility and provide a more streamlined experience.
 
-## Monetization Strategy
-Here are some potential monetization strategies:
-
-Subscription Model: Offer a premium subscription with additional features, such as advanced analytics, exclusive job listings, and custom mods.
-Freemium Model: Basic features are free, with optional paid upgrades for enhanced functionalities.
-Advertisements: Incorporate non-intrusive ads, possibly from gaming-related brands.
-Marketplace Fees: Charge a small fee or commission for transactions made through the job marketplace.
-
 ## Additional Considerations
 - Scalability: Ensure the platform can handle a growing number of users and game integrations.
 - Security: Implement strong security measures to protect and authenticate user data and transactions.
